@@ -1,0 +1,67 @@
+.heading1{
+  background-color: chocolate;
+  height: 15vh;
+  margin: auto;
+  text-align: center;
+  display: block;
+  font-size: 2rem;
+  border-radius: 1rem;
+  padding-top: 2rem;
+  font-size: 3rem;
+}
+
+textarea {
+height: 15vh;
+display: block;
+padding: 1rem;
+text-align: center;
+border-color: black;
+width: 70%;
+margin: auto;
+margin-top: 2rem;
+margin-bottom: 1rem;
+font-weight: bold;
+}
+#btn-translate{
+background-color: chocolate;
+font-size: larger;
+height: 2rem;
+display: block;
+text-align: center;
+margin: auto;
+margin-bottom: 1rem;
+font-weight: bold;
+font-size: xx-large;
+height: 8vh;
+
+}
+
+
+#output {
+border: 1px solid black;
+height: 12vh;
+display: block;
+margin: 1rem;
+padding: 1rem;
+width: 60%;
+min-height: 15vh;
+max-height: 20vh;
+overflow:scroll;
+text-align: center;
+display: block;
+margin: auto;
+
+}
+section{
+font-weight: bolder;
+font-size: large;
+padding-bottom: 1rem;
+}
+p{
+font-size: larger;
+text-align: center;
+margin: auto;
+padding: 1rem;
+
+}
+
